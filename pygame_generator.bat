@@ -8,7 +8,7 @@ if errorlevel 1 (
 )
 
 REM Set the directory of the Python script
-set "SCRIPT_PATH=%C:\Users\User\Desktop\scripts\pygame_generator.py"
+set "SCRIPT_PATH=%~dp0pygame_generator.py"
 
 REM Run the Python script
 python "%SCRIPT_PATH%"
