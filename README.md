@@ -51,6 +51,7 @@ To run the Pygame Project Generator script from any directory in the command pro
      - Click "OK" on all windows to save changes.
 
 Now, you can run `pygame_generator.py` from any directory in the command prompt by simply typing `pygame_generator.py`.
+You can also run the following: pygame_generator -v or pygame_generator --version to check the version.
 
 ## Batch File (.bat)
 
